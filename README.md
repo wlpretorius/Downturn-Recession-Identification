@@ -1,1 +1,1 @@
-# Downturn-Recession-Identification
+[# Downturn-Recession-Identification](https://medium.com/@willempretorius/data-science-in-credit-risk-compliant-economic-cycle-and-downturn-identification-for-pds-and-lgds-c62bc7dc9ae8)https://medium.com/@willempretorius/data-science-in-credit-risk-compliant-economic-cycle-and-downturn-identification-for-pds-and-lgds-c62bc7dc9ae8
